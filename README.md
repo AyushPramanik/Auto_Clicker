@@ -1,4 +1,4 @@
-Auto_Clicker.py
+#Auto_Clicker.py
 
 Makes use of the PyAutoGui Module to click on targets on the screen.
 
